@@ -1,13 +1,13 @@
 body {
-  backgroud-color: #04A6EB;
+  background-color: #04A6EB;
   color: #FDFFFF;
   width: 500px;
   margin-right: auto;
-  margin-left: auto;
+  margin-left : auto;
 }
 button {
   padding: 5px 20px;
-  backgroud-color: #337AB7;
+  background-color: #337AB7;
   color: #FDFFFF;
   border-color: #2E6DA4;
   border-style: none;
